@@ -1,3 +1,2 @@
 Hello world!
-working on test-branch.
 This is some important piece of code.
